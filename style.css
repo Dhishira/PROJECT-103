@@ -1,0 +1,23 @@
+body
+{
+  color: white;
+  background-color: pink;
+}
+
+.object_names
+{
+  color : red;
+}
+
+label
+{
+  background-color: plum;
+  width: 300px;
+}
+
+#camera
+{
+  border-style: dashed;
+  width: 350px;
+  height: 300px;
+}
